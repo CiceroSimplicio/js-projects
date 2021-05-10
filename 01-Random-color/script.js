@@ -13,5 +13,5 @@ hexBtn.addEventListener('click', () => {
 })
 
 function randomHexNumber() {
-    return Math.floor(Math.random() * hex.length)
+    return Math.floor(Math.random() * hex.length);
 }
